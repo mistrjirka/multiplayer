@@ -1,0 +1,26 @@
+{
+  "name": "multiplayer",
+  "version": "1.0.0",
+  "description": "Framework for multiplayer games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistrjirka/multiplayer.git"
+  },
+  "keywords": [
+    "multiplayer"
+  ],
+  "author": "Jiří Svítil",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mistrjirka/multiplayer/issues"
+  },
+  "homepage": "https://github.com/mistrjirka/multiplayer#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
